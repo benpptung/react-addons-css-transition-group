@@ -1,0 +1,19 @@
+{
+  "name": "react-addons-css-transition-group",
+  "version": "0.14.7",
+  "description": "a temp solution to bundle react externally in browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benpptung/react-addons-css-transition-group.git"
+  },
+  "author": "Ben P.P. Tung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benpptung/react-addons-css-transition-group/issues"
+  },
+  "homepage": "https://github.com/benpptung/react-addons-css-transition-group#readme"
+}
